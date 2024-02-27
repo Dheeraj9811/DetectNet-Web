@@ -24,9 +24,14 @@ To get started with DetectNet-Web, follow these steps:
     ```
 Open your web browser and navigate to http://localhost:3000 to use the application.
 
-Usage
+
+# TODO
+- Fix the bounding box for smaller screen sizes (below 640x480)
+
+# Contributing
+Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
+
+# Usage
 Upon launching the application, you will be prompted to select a webcam device.
 Once a webcam is selected, the application will start detecting objects in real time from the webcam feed.
 Detected objects will be highlighted with bounding boxes.
-Contributing
-Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
