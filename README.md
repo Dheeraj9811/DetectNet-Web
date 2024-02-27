@@ -1,1 +1,32 @@
-echo "# DetectNet-Web\n\nDetectNet-Web is a simple object detection application that utilizes TensorFlow.js and the COCO-SSD model to detect objects in real time using your webcam. It can detect multiple objects simultaneously and draw bounding boxes around them.\n\n## Features\n\n- Real-time object detection using webcam feed\n- Uses TensorFlow.js and COCO-SSD model\n- Detects multiple objects at once\n- Draws bounding boxes around detected objects\n\n## Getting Started\n\nTo get started with DetectNet-Web, follow these steps:\n\n1. Clone the repository:\n\n   \`\`\`bash\n   git clone https://github.com/your-username/DetectNet-Web.git\n   \`\`\`\n\n2. Install dependencies:\n\n   \`\`\`bash\n   cd DetectNet-Web\n   npm install\n   \`\`\`\n\n3. Run the application:\n\n   \`\`\`bash\n   npm start\n   \`\`\`\n\n4. Open your web browser and navigate to \`http://localhost:3000\` to use the application.\n\n## Usage\n\n- Upon launching the application, you will be prompted to select a webcam device.\n- Once a webcam is selected, the application will start detecting objects in real time from the webcam feed.\n- Detected objects will be highlighted with bounding boxes.\n\n## Contributing\n\nContributions are welcome! If you have any ideas, suggestions, or bug reports, please [open an issue](https://github.com/your-username/DetectNet-Web/issues) or [submit a pull request](https://github.com/your-username/DetectNet-Web/pulls).\n\n## License\n\nThis project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.\n" > README.md
+# DetectNet-Web
+
+DetectNet-Web is a simple object detection application that utilizes TensorFlow.js and the COCO-SSD model to detect objects in real time using your webcam. It can detect multiple objects simultaneously and draw bounding boxes around them.
+
+## Features
+
+- Real-time object detection using webcam feed
+- Uses TensorFlow.js and COCO-SSD model
+- Detects multiple objects at once
+- Draws bounding boxes around detected objects
+
+## Getting Started
+
+To get started with DetectNet-Web, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/DetectNet-Web.git
+    
+    cd DetectNet-Web
+    npm install
+    npm run dev
+    ```
+Open your web browser and navigate to http://localhost:3000 to use the application.
+
+Usage
+Upon launching the application, you will be prompted to select a webcam device.
+Once a webcam is selected, the application will start detecting objects in real time from the webcam feed.
+Detected objects will be highlighted with bounding boxes.
+Contributing
+Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
