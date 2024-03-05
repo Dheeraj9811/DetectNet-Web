@@ -1,6 +1,6 @@
 # DetectNet-Web
 
-DetectNet-Web is a simple object detection application that utilizes TensorFlow.js and the COCO-SSD model to detect objects in real time using your webcam. It can detect multiple objects simultaneously and draw bounding boxes around them.
+DetectNet-web is your ultimate tool for effortless object detection, powered by ReactJS. This sleek web app is designed to run smoothly on edge devices, providing real-time detection without the need for extensive infrastructure. With its integrated ML object model, DetectNet-web delivers accurate detection results with lightning speed. Step into the future of object detection technology with DetectNet-web.
 
 ## Features
 

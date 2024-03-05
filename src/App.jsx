@@ -134,9 +134,7 @@ function App() {
           </div>
           <div id='Details' className='flex p-5  font-mono ' >
             <p>
-              This is a simple object detection app which uses tensorflow.js and coco-ssd model to detect objects in real time.
-              It uses your webcam to capture the video and then perform detection on it.
-              It can detect multiple objects at a time and draw a bounding box around them.
+              DetectNet-web is your ultimate tool for effortless object detection, powered by ReactJS. This sleek web app is designed to run smoothly on edge devices, providing real-time detection without the need for extensive infrastructure. With its integrated ML object model, DetectNet-web delivers accurate detection results with lightning speed. Step into the future of object detection technology with DetectNet-web.
             </p>
         </div>
         </div>
